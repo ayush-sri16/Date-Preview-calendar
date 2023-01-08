@@ -1,3 +1,1 @@
-# Date Preview Calendar 
-
-![It is a component of a calendar which shows todays date, month, year, and day of the week](./resources/Screenshot 2023-01-08 at 11.38.56.png)
+[![Screenshot-2023-01-08-at-11-38-56.png](https://i.postimg.cc/NMgcnnGR/Screenshot-2023-01-08-at-11-38-56.png)](https://postimg.cc/8Fn9Jt6C)
